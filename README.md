@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">Languages and tools:</h3>
 <h4 align="left">FRONT-END:</h4>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -38,3 +38,11 @@ Here are some ideas to get you started:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual" width="40" height="40" />
   <img src="https://www.lennu.net/wp-content/uploads/2015/11/zeplin_logo-523x510.png" alt=“zeplin” width="40" height="40"/>
   </a> </p>
+<h4 align="left">SOFT SKILLS:</h4>
+<p align="left">Team work and active listening.</p>
+<p align="left">Agile philosophy and Scrum framework.</p>
+
+<h4 align="left">Connect with me:</h4>
+- [Mónica Saborido](https://github.com/sabfiamo)
+  
+  
