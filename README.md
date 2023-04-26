@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Mónica
 <h2 align="center">Hi there 👋 I'm Mónica</h2>
 <h3 align="left">An Spanish Junior Full-Stack Developer based in Santiago de Compostela, Spain!</h3>
-<h4 align="left">Connect with me:</h4>
-  <a href="https://github.com/sabfiamo" target="_blank" rel="noreferrer">https://www.linkedin.com/in/monica-saborido/</a>
+
 <!--
 **sabfiamo/sabfiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,6 +44,8 @@ Here are some ideas to get you started:
 <p align="left">Team work and active listening.</p>
 <p align="left">Agile philosophy and Scrum framework.</p>
 
+<h4 align="left">Connect with me:</h4>
+<a href="https://github.com/sabfiamo" target="_blank" rel="noreferrer">https://www.linkedin.com/in/monica-saborido/</a>
 
 
   
