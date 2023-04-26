@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p align="left">Agile philosophy and Scrum framework.</p>
 
 <h4 align="left">Connect with me:</h4>
-  <p align="left">Mónica Saborido <a href="https://github.com/sabfiamo" target="_blank" rel="noreferrer"> </p>
+  <a href="https://github.com/sabfiamo" target="_blank" rel="noreferrer">
 
   
   
