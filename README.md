@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Mónica
-<h2 align="center">Hi there 👋 I'm Mónica</h2>
-<h3 align="left">An Spanish Junior Full-Stack Developer based in Santiago de Compostela, Spain!</h3>
+
 
 <!--
 **sabfiamo/sabfiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
