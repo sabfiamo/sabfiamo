@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mónica
 
-<h3 align="left">An Spanish Junior Full-Stack Developer based in Santiago de Compostela, Spain!</h3>
+<h4 align="left">An Spanish Junior Full-Stack Developer based in Santiago de Compostela, Spain!</h4>
 
 <!--
 **sabfiamo/sabfiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Languages and tools:</h3>
+<h4 align="left">Languages and tools:</h4>
 <h4 align="left">FRONT-END:</h4> 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
