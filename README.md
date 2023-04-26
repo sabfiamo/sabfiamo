@@ -1,4 +1,6 @@
-### Hi there 👋My name is Mónica an Spanish Front-end Developer based in Santiago de Compostela, Spain!
+### Hi there 👋 I'm Mónica
+
+<h3 align="left">An Spanish Junior Full-Stack Developer based in Santiago de Compostela, Spain!</h3>
 
 <!--
 **sabfiamo/sabfiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
